@@ -137,6 +137,12 @@ img {
   font-weight: bold;
 }
 
+.privacy-policy {
+  margin: auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
 
 /* Animations */
 @keyframes slideInFromLeft {
