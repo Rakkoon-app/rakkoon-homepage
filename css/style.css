@@ -72,6 +72,10 @@ img {
   padding: 1em;
 }
 
+.navbar a {
+  color: #fff;
+}
+
 /* Showcase */
 .showcase {
   background: var(--rakkoon-gradient);
